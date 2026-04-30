@@ -7,12 +7,12 @@ Run SDK
         npm install
 
     Command 2
-
+]
         node index.ts
 
 Basic Usage
 
-    import * as wasm from "@aiamitsuri/interoperability-wrapper-wasm";
+    import * as wasm from "@rustbyshabari/interoperability-wrapper-wasm";
     
     const params = {
         language: null,
@@ -39,7 +39,7 @@ Basic Usage
 
 Dynamic Usage
 
-    import * as wasm from "@aiamitsuri/interoperability-wrapper-wasm";
+    import * as wasm from "@rustbyshabari/interoperability-wrapper-wasm";
     
     interface FetchParams {
         page: string;
@@ -97,7 +97,7 @@ Dynamic Usage
     
 Concurrent Usage
 
-    import * as wasm from "@aiamitsuri/interoperability-wrapper-wasm";
+    import * as wasm from "@rustbyshabari/interoperability-wrapper-wasm";
     
     interface FetchParams {
         page: string;
