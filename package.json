@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aiamitsuri/interoperability-wrapper-wasm": "^0.1.1"
+    "@rustbyshabari/interoperability-wrapper-wasm": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

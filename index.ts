@@ -1,4 +1,4 @@
-import * as wasm from "@aiamitsuri/interoperability-wrapper-wasm";
+import * as wasm from "@rustbyshabari/interoperability-wrapper-wasm";
 
 interface FetchParams {
     page: string;
